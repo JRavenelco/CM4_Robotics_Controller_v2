@@ -1,0 +1,14 @@
+- [ ] **Fase 1: Investigar visores web de Gerber y esquemáticos**
+  - [X] Buscar visores web de esquemáticos de KiCad.
+  - [X] Buscar visores web de Gerber.
+- [ ] **Fase 2: Integrar visor de esquemáticos en el sitio web**
+  - [ ] Obtener los archivos SVG del esquemático principal y los subsistemas.
+  - [ ] Integrar los archivos SVG en el HTML y configurar el visor KiCadWebView.
+- [ ] **Fase 3: Integrar visor de Gerber en el sitio web**
+  - [ ] Obtener los archivos Gerber del proyecto.
+  - [ ] Integrar los archivos Gerber en el HTML y configurar el visor KiCadWebView (o un visor de Gerber dedicado).
+- [ ] **Fase 4: Actualizar contenido del sitio web con enlaces a los visores**
+  - [ ] Añadir enlaces a las nuevas secciones de visores en la navegación y/o documentación.
+- [ ] **Fase 5: Desplegar sitio web actualizado**
+  - [ ] Desplegar el sitio web con los visores integrados.
+
